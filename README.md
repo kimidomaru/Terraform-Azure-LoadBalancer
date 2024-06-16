@@ -1,4 +1,4 @@
-# Terraform_Azure_LoadBalancer
+# Terraform Azure LoadBalancer
 
 This project is designed to provision an Azure Load Balancer using Terraform. The goal is to automate the process of setting up a load balancer in Azure, making it faster and more efficient.
 
