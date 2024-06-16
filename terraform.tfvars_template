@@ -1,0 +1,16 @@
+/**
+ * This file contains the template for the Terraform variables required to configure an Azure Load Balancer.
+ * 
+ * The variables in this file include:
+ * - subscription_id: The ID of your Azure subscription.
+ * - tenant_id: The ID of your Azure Active Directory tenant.
+ * - client_id: The ID of the service principal or application representing the client.
+ * - client_secret: The client secret or password associated with the client.
+ * 
+ * Before using this template, replace the placeholder values with your own Azure subscription, tenant, client, and secret information.
+ */
+ 
+subscription_id = "YOUR-SUBSCRIPTION-ID"
+tenant_id       = "YOUR-TENANT-ID"
+client_id       = "YOUR-CLIENT-ID"
+client_secret   = "YOUR-CLIENT-SECRET"
